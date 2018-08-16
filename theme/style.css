@@ -51,6 +51,10 @@ img {
   background: #faab3e;
 }
 
+.bread li {
+  text-align: left;
+}
+
 .meat {
   background: #a33815;
 }
